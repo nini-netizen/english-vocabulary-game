@@ -22,3 +22,7 @@ Python、TCP socket、threading、Tkinter，以及用於檢查英文單字的 Py
 
 程式目前設定以 `127.0.0.1:12345` 連線，適合在同一台電腦上測試。執行時先啟動 `server.py`，再啟動 `client.py`；若要加入多位玩家，可開啟多個客戶端程式。
 
+## 操作示範
+
+[英文詞彙量比賽 Demo 影片](https://youtu.be/vP8wrdHEnc4)
+
